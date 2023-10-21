@@ -1,4 +1,4 @@
 git add .
-git commit
+git commit -m "test"
 git push origin main
 PAUSE 2000
